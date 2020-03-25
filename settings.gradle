@@ -1,0 +1,6 @@
+rootProject.name='iBookApp'
+include ':app'
+include ':common'
+include ':face-res'
+include ':factory'
+include ':lang'
